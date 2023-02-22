@@ -1,0 +1,14 @@
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\bin\Debug\net6.0\EpsilonDbContext.deps.json
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\bin\Debug\net6.0\EpsilonDbContext.runtimeconfig.json
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\bin\Debug\net6.0\EpsilonDbContext.dll
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\bin\Debug\net6.0\EpsilonDbContext.pdb
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.csproj.AssemblyReference.cache
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.AssemblyInfoInputs.cache
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.AssemblyInfo.cs
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.csproj.CoreCompileInputs.cache
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.dll
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\refint\EpsilonDbContext.dll
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.pdb
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\EpsilonDbContext.genruntimeconfig.cache
+C:\Users\nestoras.miaritis\Desktop\NESTOR BACKUP FILES\Projects\c#\EpsilonDbContext\obj\Debug\net6.0\ref\EpsilonDbContext.dll
